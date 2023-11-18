@@ -1,3 +1,4 @@
-- I’m currently working on a lot of Mindustry mods like a [Tantros mod](https://github.com/Yoru-Kitsune/Tantros) or other joke mods that are just for fun!
+- I’m currently working on a lot of Mindustry mods like a mod that replicates Minecraft (WIP), translation mods or other mods that are just for fun!
+- I have way too many Mindustry mods and still creating new ones even tho there are like none that I actually finished. Please be pacient about updates, I haven't forgotten them!!!
 - How to reach me: Discord: yoru_kitsu
-- I'm also available to translate your projects from english to german!
+- I'm also available to translate your Mindustry mods from english to german so feel free to dm me on discord!

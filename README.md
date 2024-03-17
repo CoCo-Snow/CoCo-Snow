@@ -4,5 +4,5 @@
 - I'm also available to translate your Mindustry mods from english to german so feel free to dm me on discord!
 
 Mods I spend the most time on currently:
-- HD-Dustry
-- Simpledustry V2 (private major update)
+- HD-Dustry (Not published yet)
+- Simpledustry V2 (Major update)

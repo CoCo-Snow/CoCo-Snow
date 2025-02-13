@@ -1,8 +1,7 @@
-- I'm a Mindustry mod developer and I make probably the most unusual mods ever. I make texture-packs, content mods, map-packs, gamemodes, planet mods and more!
-- I have way too many Mindustry mods and still creating new ones even tho there are like none that I have actually finished. Please be pacient about updates, I haven't forgotten them!!!
-- How to reach me: Discord link in my profile (or by username: coco.snow)
-- I'm also available to translate your Mindustry mods from english to german!
+- I'm a Mindustry mod developer and making probably the most unusual mods ever. I make texture packs, content mods, map-packs, gamemodes, planet mods, translation mods and more!
+- Updates may take up to 1-3 years (like actually)
+- How to reach me: Discord - coco.snow
+- I'm also available to translate your Mindustry mods from english to german and the other way around!
 
-Mods I spend the most time on currently:
-- Simpledustry V2 (Major update)
-- Beskar V2 (Major Update)
+Mod I spend the most time on currently:
+- German: Rewritten
